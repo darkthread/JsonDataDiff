@@ -1,0 +1,26 @@
+[
+    {
+        "Id": "Jeffrey",
+        "Lvl": "A",
+        "Score": 32767,
+        "UpdTime": "2022-07-30"
+    },
+    {
+        "Id": "DateChg",
+        "Lvl": "B",
+        "Score": 9527,
+        "UpdTime": "2022-07-31"
+    },
+    {
+        "Id": "ScoreChg",
+        "Lvl": "D",
+        "Score": 127,
+        "UpdTime": "2022-07-30"
+    },    
+    {
+        "Id": "New",
+        "Lvl": "C",
+        "Score": 9999,
+        "UpdTime": "2022-07-30"
+    }
+]
